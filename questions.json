@@ -53,10 +53,8 @@
   },
   {
     "id": 5,
-    "question": "From the following figure, which of the following is correct?",
-    "options": [
-      "images/q5_1.png images/q5_2.png images/q5_3.png images/q5_4.png"
-    ],
+    "question": "From the following figure, which of the following is correct? images/q5_1.png images/q5_2.png images/q5_3.png images/q5_4.png",
+    "options": [],
     "answer": "images/q5_1.png images/q5_2.png images/q5_3.png images/q5_4.png",
     "image": null,
     "type": "type_3"
@@ -76,9 +74,8 @@
   },
   {
     "id": 7,
-    "question": "Driver A (red) wants to turn right and there is a straight line car running on the opposite side, what",
+    "question": "Driver A (red) wants to turn right and there is a straight line car running on the opposite side, what should be done?",
     "options": [
-      "should be done?",
       "• Turn right immediately",
       "• Stop the car and let the car on the right pass before you can turn right",
       "• Stop the car and let the straight ahead car (yellow) pass before you can turn right",
@@ -272,9 +269,8 @@
   },
   {
     "id": 22,
-    "question": "When the vehicle in front gives a signal, it will turn the car or change the lane. What do the",
+    "question": "When the vehicle in front gives a signal, it will turn the car or change the lane. What do the drivers behind you have to do?",
     "options": [
-      "drivers behind you have to do?",
       "• Speed up to go first",
       "• Park the car",
       "• Stop the car",
@@ -338,9 +334,8 @@
   },
   {
     "id": 27,
-    "question": "The driver violated the road traffic law and received a ticket. In how many days he must contact to",
+    "question": "The driver violated the road traffic law and received a ticket. In how many days he must contact to pay the fine?",
     "options": [
-      "pay the fine?",
       "• 15 days",
       "• 7 days",
       "• 30 days",
@@ -365,9 +360,8 @@
   },
   {
     "id": 29,
-    "question": "In the event that two vehicles arrive at the same time on a crossroads which car has the right to",
+    "question": "In the event that two vehicles arrive at the same time on a crossroads which car has the right to drive through first?",
     "options": [
-      "drive through first?",
       "• Both car A and car B",
       "• Car B",
       "• Cars that arrive at the intersection first",
@@ -717,9 +711,8 @@
   },
   {
     "id": 56,
-    "question": "In the case of a car turning left and turning right at the same time in the same route, what should",
+    "question": "In the case of a car turning left and turning right at the same time in the same route, what should the driver do?",
     "options": [
-      "the driver do?",
       "• Those who will turn left turn immediately.",
       "• Don't turn left",
       "• Those who turn right must stop giving way to vehicles turning from the left first.",
@@ -770,10 +763,8 @@
   },
   {
     "id": 60,
-    "question": "From the following picture which picture shows parking correctly?",
-    "options": [
-      "images/q60_1.png images/q60_2.png images/q60_3.png images/q60_4.png"
-    ],
+    "question": "From the following picture which picture shows parking correctly? images/q60_1.png images/q60_2.png images/q60_3.png images/q60_4.png",
+    "options": [],
     "answer": "images/q60_1.png images/q60_2.png images/q60_3.png images/q60_4.png",
     "image": null,
     "type": "type_3"
@@ -1053,9 +1044,8 @@
   },
   {
     "id": 82,
-    "question": "When traffic jams, car B (green). can't move forward. The driver of the car A (red). wants to drive",
+    "question": "When traffic jams, car B (green). can't move forward. The driver of the car A (red). wants to drive straight. How to do",
     "options": [
-      "straight. How to do",
       "• Drive to the back of car B(green) and turn on the emergency lights.",
       "• Drive to the back of car B(green). to avoid gaps.",
       "• Stop the car and let Car B(green) pass first.",
@@ -1067,9 +1057,8 @@
   },
   {
     "id": 83,
-    "question": "Why do I have to raise the clutch and accelerate the engine a little more while driving through",
+    "question": "Why do I have to raise the clutch and accelerate the engine a little more while driving through water?",
     "options": [
-      "water?",
       "• To make the engine heat higher than normal",
       "• To prevent the engine from turning off.",
       "• To make the car have more speed",
@@ -1081,10 +1070,8 @@
   },
   {
     "id": 84,
-    "question": "From the following picture Which picture shows parking correctly?",
-    "options": [
-      "images/q84_1.png images/q84_2.png images/q84_3.png images/q84_4.png"
-    ],
+    "question": "From the following picture Which picture shows parking correctly? images/q84_1.png images/q84_2.png images/q84_3.png images/q84_4.png",
+    "options": [],
     "answer": "images/q84_1.png images/q84_2.png images/q84_3.png images/q84_4.png",
     "image": null,
     "type": "type_3"
@@ -1104,9 +1091,8 @@
   },
   {
     "id": 86,
-    "question": "What are the penalties while driving when the body is found to have alcohol in excess of the legal",
+    "question": "What are the penalties while driving when the body is found to have alcohol in excess of the legal limit?",
     "options": [
-      "limit?",
       "• Imprisonment for not more than 3 months or a fine of 1,000 to 50,000 baht.",
       "• A fine not exceeding 50,000 baht",
       "• A fine of not more than 10,000 baht",
@@ -1209,9 +1195,8 @@
   },
   {
     "id": 94,
-    "question": "A car that does not pay the annual tax within the specified time will have to pay how much",
+    "question": "A car that does not pay the annual tax within the specified time will have to pay how much additional money?",
     "options": [
-      "additional money?",
       "• 1 percent per year",
       "• 20 percent per year",
       "• 1 percent per month",
@@ -1353,9 +1338,8 @@
   },
   {
     "id": 105,
-    "question": "While driving burning smell The air conditioner is not cold The engine does not accelerate, what",
+    "question": "While driving burning smell The air conditioner is not cold The engine does not accelerate, what should I do?",
     "options": [
-      "should I do?",
       "• Park the car in a safe place and call a mechanic to check.",
       "• Slow down and continue driving.",
       "• Keep driving",
@@ -1471,9 +1455,8 @@
   },
   {
     "id": 114,
-    "question": "Driving overtakes the car in front must overtake on the right hand side. except in any case that",
+    "question": "Driving overtakes the car in front must overtake on the right hand side. except in any case that can overtake on the left-hand side",
     "options": [
-      "can overtake on the left-hand side",
       "• Overtake other vehicles on the left in a single lane.",
       "• Overtake other vehicles in the left lane when in the community area.",
       "• Overtake other cars on the left as they drive over the bridge.",
@@ -1498,9 +1481,8 @@
   },
   {
     "id": 116,
-    "question": "The driver must drive in the road on the left. except in any case able to drive on the right can",
+    "question": "The driver must drive in the road on the left. except in any case able to drive on the right can cross the middle of the roadway",
     "options": [
-      "cross the middle of the roadway",
       "• No car on the way",
       "• The roadway is flooded.",
       "• The driveway is very wide.",
@@ -1525,9 +1507,8 @@
   },
   {
     "id": 118,
-    "question": "A driver who wants to turn left must drive in the left lane before how many meters before the",
+    "question": "A driver who wants to turn left must drive in the left lane before how many meters before the turn?",
     "options": [
-      "turn?",
       "• Not less than 25 meters",
       "• Not less than 20 meters",
       "• Not less than 30 meters",
@@ -1539,9 +1520,8 @@
   },
   {
     "id": 119,
-    "question": "The driver must turn on the headlights or taillights. for other cars to be seen at a distance of not",
+    "question": "The driver must turn on the headlights or taillights. for other cars to be seen at a distance of not less than how much",
     "options": [
-      "less than how much",
       "• 100 meters",
       "• 120 meters",
       "• 150 meters",
@@ -1553,9 +1533,8 @@
   },
   {
     "id": 120,
-    "question": "It is forbidden for a driver to overtake to get in front of another vehicle while there is fog, dust,",
+    "question": "It is forbidden for a driver to overtake to get in front of another vehicle while there is fog, dust, rain or smoke until he cannot see the road ahead at any distance.",
     "options": [
-      "rain or smoke until he cannot see the road ahead at any distance.",
       "• 90 meters",
       "• 80 meters",
       "• 60 meters",
@@ -1593,9 +1572,8 @@
   },
   {
     "id": 123,
-    "question": "When you are driving, will leave the secondary road. Why should I be especially careful with",
+    "question": "When you are driving, will leave the secondary road. Why should I be especially careful with motorcycles?",
     "options": [
-      "motorcycles?",
       "• Police patrols often use motorcycles.",
       "• Motorcycles have the right to go first.",
       "• Motorcycles tend to use more speed than cars.",
@@ -1659,9 +1637,8 @@
   },
   {
     "id": 128,
-    "question": "Outside of Bangkok, Pattaya City, or the municipality, you must drive at a speed not higher than",
+    "question": "Outside of Bangkok, Pattaya City, or the municipality, you must drive at a speed not higher than what? (for private cars)",
     "options": [
-      "what? (for private cars)",
       "• Not more than 120 kilometers per hour",
       "• Not more than 100 kilometers per hour",
       "• Not more than 80 kilometers per hour",
@@ -1673,9 +1650,8 @@
   },
   {
     "id": 129,
-    "question": "At the junction and there is a sign prohibiting U-turn, but the traffic officer allows the driver to",
+    "question": "At the junction and there is a sign prohibiting U-turn, but the traffic officer allows the driver to make a U-turn. How to do",
     "options": [
-      "make a U-turn. How to do",
       "• You can make a U-turn if it is not an intersection.",
       "• Return the car according to the instructions of the staff.",
       "• Can't make a U-turn",
@@ -2714,9 +2690,8 @@
   },
   {
     "id": 209,
-    "question": "A car that drives at high speed and suddenly presses on the brake (car does not use ABS brakes),",
+    "question": "A car that drives at high speed and suddenly presses on the brake (car does not use ABS brakes), what effect will it have?",
     "options": [
-      "what effect will it have?",
       "• The wheels will lock and the car will spin.",
       "• The wheels will lock and the car will stop immediately.",
       "• Will stop the car at the specified distance",
@@ -2897,9 +2872,8 @@
   },
   {
     "id": 223,
-    "question": "For safety when getting out of the car moving forward about 3-4 meters, what should be tested",
+    "question": "For safety when getting out of the car moving forward about 3-4 meters, what should be tested first?",
     "options": [
-      "first?",
       "• Electrical test",
       "• High beam test",
       "• Brake system test",
@@ -3314,9 +3288,8 @@
   },
   {
     "id": 255,
-    "question": "What are some of the key environmental reasons why driving at night is a higher risk of",
+    "question": "What are some of the key environmental reasons why driving at night is a higher risk of accidents than during the day?",
     "options": [
-      "accidents than during the day?",
       "• The light is insufficient to see while driving.",
       "• The physical condition of the driver and the condition of the car is not ready.",
       "• Driving while intoxicated",
@@ -3393,9 +3366,8 @@
   },
   {
     "id": 261,
-    "question": "When you have to drive through a road with a deep water level. What should be done for the",
+    "question": "When you have to drive through a road with a deep water level. What should be done for the brakes to work normally.",
     "options": [
-      "brakes to work normally.",
       "• Avoid using brakes for short distances.",
       "• Drive slowly while gradually keep pressing the brake",
       "• Stop the vehicle for at least 1 hour to allow the brake system to dry.",
@@ -3485,9 +3457,8 @@
   },
   {
     "id": 268,
-    "question": "In the event that two vehicles arrive at the same time on a crossroads Which car has the right to",
+    "question": "In the event that two vehicles arrive at the same time on a crossroads Which car has the right to drive through first?",
     "options": [
-      "drive through first?",
       "• Car B (blue).",
       "• Cars that arrive at the intersection first",
       "• Both cars A(red) and B(blue).",
@@ -3538,9 +3509,8 @@
   },
   {
     "id": 272,
-    "question": "The red car turned on the right turn signal because the left side had a broken car blocking it. How",
+    "question": "The red car turned on the right turn signal because the left side had a broken car blocking it. How should the yellow car be treated?",
     "options": [
-      "should the yellow car be treated?",
       "• Drive to the rear of the broken car with the emergency lights on.",
       "• Give a long horn signal",
       "• Stop the car and let the car turn on the right turn signal first.",
@@ -3552,9 +3522,8 @@
   },
   {
     "id": 273,
-    "question": "In the event that you see another vehicle giving a signal to turn or change the lane How do you",
+    "question": "In the event that you see another vehicle giving a signal to turn or change the lane How do you do it?",
     "options": [
-      "do it?",
       "• Slow down and give way",
       "• Stop the car",
       "• Park the car",
@@ -3670,9 +3639,8 @@
   },
   {
     "id": 282,
-    "question": "When you follow the truck into a junction The truck driver gave a left turn signal. What should",
+    "question": "When you follow the truck into a junction The truck driver gave a left turn signal. What should be done",
     "options": [
-      "be done",
       "• Do not overtake the truck until the truck starts turning.",
       "• Overtake the truck if there is enough space.",
       "• Overtake the truck only if there is no park car.",
@@ -3827,9 +3795,8 @@
   },
   {
     "id": 294,
-    "question": "When the passenger is a 5-year-old child with a height of less than 1.35 meters, how can there be",
+    "question": "When the passenger is a 5-year-old child with a height of less than 1.35 meters, how can there be a child seat if there is no child seat?",
     "options": [
-      "a child seat if there is no child seat?",
       "• Sit between the other children",
       "• Have the child sit in a normal seat and fasten the seat belt with an adult.",
       "• Have the child sit in a normal seat and fasten an adult seat belt.",
@@ -3841,10 +3808,8 @@
   },
   {
     "id": 295,
-    "question": "From the following picture Show the correct car turn",
-    "options": [
-      "images/q295_1.png images/q295_2.png images/q295_3.png images/q295_4.png"
-    ],
+    "question": "From the following picture Show the correct car turn images/q295_1.png images/q295_2.png images/q295_3.png images/q295_4.png",
+    "options": [],
     "answer": "images/q295_1.png images/q295_2.png images/q295_3.png images/q295_4.png",
     "image": null,
     "type": "type_3"
@@ -3877,9 +3842,8 @@
   },
   {
     "id": 298,
-    "question": "From the picture, while the green light If you want to drive straight but you hear an ambulance",
+    "question": "From the picture, while the green light If you want to drive straight but you hear an ambulance coming to your right, you should",
     "options": [
-      "coming to your right, you should",
       "• Drive through normally",
       "• Use the horn signal to alert the ambulance that you will go first.",
       "• Stop waiting for the ambulance",
@@ -3904,9 +3868,8 @@
   },
   {
     "id": 300,
-    "question": "When you want to turn left from the secondary road into the main road. There was a truck",
+    "question": "When you want to turn left from the secondary road into the main road. There was a truck coming to the right. Why should you stop and wait even if you have enough time to turn into the main entrance?",
     "options": [
-      "coming to the right. Why should you stop and wait even if you have enough time to turn into the main entrance?",
       "• The truck may obscure the vehicle on the left.",
       "• Trucks are difficult to control in straight lines.",
       "• Trucks may obscure the overtaking vehicle.",
@@ -3931,9 +3894,8 @@
   },
   {
     "id": 302,
-    "question": "When you drive behind a truck at a distance But there was a car intervening in that distance.",
+    "question": "When you drive behind a truck at a distance But there was a car intervening in that distance. What should be done",
     "options": [
-      "What should be done",
       "• Honk",
       "• Flashing lights",
       "• A further distance away",
@@ -3958,9 +3920,8 @@
   },
   {
     "id": 304,
-    "question": "When you are driving while turning left at an intersection and someone is crossing the road.",
+    "question": "When you are driving while turning left at an intersection and someone is crossing the road. What should be done",
     "options": [
-      "What should be done",
       "• Give way to people crossing the road",
       "• Honk the horn and make a turn",
       "• Turn left and keep your distance from pedestrians crossing the road.",
@@ -3985,9 +3946,8 @@
   },
   {
     "id": 306,
-    "question": "To turn right from the main road into the secondary road. What should be done before making a",
+    "question": "To turn right from the main road into the secondary road. What should be done before making a turn?",
     "options": [
-      "turn?",
       "• Stop and use the handbrake",
       "• Use gear 1",
       "• Turn off the right turn signal",
@@ -3999,9 +3959,8 @@
   },
   {
     "id": 307,
-    "question": "Why is it necessary to turn the windshield to allow water to flow into the car? when driving in",
+    "question": "Why is it necessary to turn the windshield to allow water to flow into the car? when driving in water",
     "options": [
-      "water",
       "• In order not to break the windshield",
       "• To adjust the pressure in the car and outside the car to equalize",
       "• To suck air into the lungs as much as possible",
@@ -4013,9 +3972,8 @@
   },
   {
     "id": 308,
-    "question": "When entering a small roundabout If you see a truck giving a left turn signal but keep driving on",
+    "question": "When entering a small roundabout If you see a truck giving a left turn signal but keep driving on the right, what should you do?",
     "options": [
-      "the right, what should you do?",
       "• Social distance",
       "• Overtake from the left",
       "• Honk",
@@ -4105,9 +4063,8 @@
   },
   {
     "id": 315,
-    "question": "In order to drive across a railroad without barriers when the vehicle in front has crossed the",
+    "question": "In order to drive across a railroad without barriers when the vehicle in front has crossed the railroad, what should you do?",
     "options": [
-      "railroad, what should you do?",
       "• You can follow the car in front.",
       "• Stop waiting for the staff to give the signal.",
       "• Before crossing the railway, safety must be checked again.",
@@ -4184,9 +4141,8 @@
   },
   {
     "id": 321,
-    "question": "When I saw a cloud of smoke from the engine compartment while driving What should the",
+    "question": "When I saw a cloud of smoke from the engine compartment while driving What should the driver do?",
     "options": [
-      "driver do?",
       "• Stay calm and park your car on the side of the road.",
       "• Drive down the river beside the road",
       "• Park and leave the car immediately.",
@@ -4211,9 +4167,8 @@
   },
   {
     "id": 323,
-    "question": "When on the way home after a long holiday If you are sick and your doctor prescribes drugs that",
+    "question": "When on the way home after a long holiday If you are sick and your doctor prescribes drugs that affect driving. What should be done",
     "options": [
-      "affect driving. What should be done",
       "• Can only drive when accompanied by a passenger",
       "• Do not drive more than 50 kilometers per hour.",
       "• Let someone else drive instead.",
@@ -4251,9 +4206,8 @@
   },
   {
     "id": 326,
-    "question": "If the driver takes antihistamines, motion sickness pills and has symptoms of dizziness, dizzy,",
+    "question": "If the driver takes antihistamines, motion sickness pills and has symptoms of dizziness, dizzy, what should be done?",
     "options": [
-      "what should be done?",
       "• Refrain from driving due to being lethargic",
       "• Able to drive normally",
       "• Sit and rest for 10 minutes so you can drive.",
@@ -4304,9 +4258,8 @@
   },
   {
     "id": 330,
-    "question": "From the picture, the red car and the yellow car want to go in the same direction. Any vehicle",
+    "question": "From the picture, the red car and the yellow car want to go in the same direction. Any vehicle has the right to go first when there are signs to stop in both directions.",
     "options": [
-      "has the right to go first when there are signs to stop in both directions.",
       "• Red car",
       "• Whichever vehicle reaches the intersection first",
       "• Any vehicle driving at a higher speed",
@@ -4357,9 +4310,8 @@
   },
   {
     "id": 334,
-    "question": "When the car driving behind gives a signal asking for overtaking Good etiquette to show that you",
+    "question": "When the car driving behind gives a signal asking for overtaking Good etiquette to show that you agree to overtake is:",
     "options": [
-      "agree to overtake is:",
       "• High beam signal and slow down",
       "• Give the horn signal and slow down.",
       "• Give left turn signal, keep left and slow down.",
@@ -4371,9 +4323,8 @@
   },
   {
     "id": 335,
-    "question": "You are driving through an area with a car parked on the side of the road. But he noticed the ball",
+    "question": "You are driving through an area with a car parked on the side of the road. But he noticed the ball rolling out. What should you do?",
     "options": [
-      "rolling out. What should you do?",
       "• Slow down and prepare to stop.",
       "• Drive at the same speed and give the horn signal.",
       "• Drive at the same speed and give the high beam signal.",
@@ -4424,9 +4375,8 @@
   },
   {
     "id": 339,
-    "question": "Which of the following is the greatest benefit of using a lower gear when going down a steep",
+    "question": "Which of the following is the greatest benefit of using a lower gear when going down a steep slope?",
     "options": [
-      "slope?",
       "• Saves fuel",
       "• To slow down the speed of the car",
       "• Increase the stability of the car",
@@ -4438,10 +4388,8 @@
   },
   {
     "id": 340,
-    "question": "From the picture, which of the following shows the wrong stop of the car?",
-    "options": [
-      "images/q340_1.png images/q340_2.png images/q340_3.png images/q340_4.png"
-    ],
+    "question": "From the picture, which of the following shows the wrong stop of the car? images/q340_1.png images/q340_2.png images/q340_3.png images/q340_4.png",
+    "options": [],
     "answer": "images/q340_1.png images/q340_2.png images/q340_3.png images/q340_4.png",
     "image": null,
     "type": "type_3"
@@ -4500,9 +4448,8 @@
   },
   {
     "id": 345,
-    "question": "If you are driving in the position of a gray car (pointing arrow), what precautions should be",
+    "question": "If you are driving in the position of a gray car (pointing arrow), what precautions should be taken?",
     "options": [
-      "taken?",
       "• A parked car may open the door.",
       "• Parking space available",
       "• The car following",
@@ -4579,9 +4526,8 @@
   },
   {
     "id": 351,
-    "question": "While driving home If you feel very tired and have a headache. What should be done to ensure",
+    "question": "While driving home If you feel very tired and have a headache. What should be done to ensure the safety of driving as much as possible?",
     "options": [
-      "the safety of driving as much as possible?",
       "• Wait until the body is ready to drive.",
       "• Wait for a short time and slowly drove home",
       "• Drive home if you're still conscious.",
@@ -4593,9 +4539,8 @@
   },
   {
     "id": 352,
-    "question": "One who lost one eye But when examined by an ophthalmologist that still have normal eyesight.",
+    "question": "One who lost one eye But when examined by an ophthalmologist that still have normal eyesight. Can I drive a vehicle?",
     "options": [
-      "Can I drive a vehicle?",
       "• Only private vehicles",
       "• Can",
       "• Can only public transport",
@@ -4607,9 +4552,8 @@
   },
   {
     "id": 353,
-    "question": "When you drive a car with ABS brakes, how should you apply the brakes in case of an",
+    "question": "When you drive a car with ABS brakes, how should you apply the brakes in case of an emergency stop?",
     "options": [
-      "emergency stop?",
       "• Slowly and quickly apply the brakes.",
       "• Apply the brake slowly and slowly.",
       "• Apply the brake slowly but fully.",
@@ -4634,9 +4578,8 @@
   },
   {
     "id": 355,
-    "question": "What drivers should do when they see a person standing on the sidewalk and appearing to cross",
+    "question": "What drivers should do when they see a person standing on the sidewalk and appearing to cross the road at the crosswalk",
     "options": [
-      "the road at the crosswalk",
       "• Tap the brakes to warn the car after you know you are about to stop. and stop the car across the road",
       "• Honk the horn to warn people to cross the road and speed past them.",
       "• Overtake the car parked to the crosser and pass quickly.",
@@ -4713,9 +4656,8 @@
   },
   {
     "id": 361,
-    "question": "If arriving at the scene of the first in a situation where there are severe injuries When the",
+    "question": "If arriving at the scene of the first in a situation where there are severe injuries When the emergency lights are turned on and check that the engine has stopped. What should be done next?",
     "options": [
-      "emergency lights are turned on and check that the engine has stopped. What should be done next?",
       "• Try to get the injured person to drink something.",
       "• Remove the injured person from the vehicle.",
       "• Stop other cars and ask for help from the driver",
@@ -4753,9 +4695,8 @@
   },
   {
     "id": 364,
-    "question": "When the white car turns on the right turn signal to ask for directions as shown in the picture.",
+    "question": "When the white car turns on the right turn signal to ask for directions as shown in the picture. What should the red car do?",
     "options": [
-      "What should the red car do?",
       "• Use a warning horn",
       "• Turn on high beam warning",
       "• Speed up",
@@ -4845,9 +4786,8 @@
   },
   {
     "id": 371,
-    "question": "If you are driving at the legal speed and there is a car behind you trying to overtake. How should",
+    "question": "If you are driving at the legal speed and there is a car behind you trying to overtake. How should you act?",
     "options": [
-      "you act?",
       "• Wave your hand for the car behind you to overtake when you see it's safe.",
       "• Drive closer to the car in front so that the car in the back has no space to overtake",
       "• Keep the distance and let the car behind you overtake.",
@@ -4898,9 +4838,8 @@
   },
   {
     "id": 375,
-    "question": "How to move the injured Sit on four hands clasped together to form a litter or lift using a chair.",
+    "question": "How to move the injured Sit on four hands clasped together to form a litter or lift using a chair. Suitable for any type of injury",
     "options": [
-      "Suitable for any type of injury",
       "• Injured leg but feel good and can use both arms",
       "• Emergency wounded",
       "• Body wounded or broken bones",
@@ -5055,9 +4994,8 @@
   },
   {
     "id": 387,
-    "question": "When you drive into the crosswalk, you find that there are people in wheelchairs waiting to cross",
+    "question": "When you drive into the crosswalk, you find that there are people in wheelchairs waiting to cross the road. What should you do?",
     "options": [
-      "the road. What should you do?",
       "• Wave a hand to the wheelchair man to stop and wait.",
       "• Keep driving",
       "• Get ready to stop",
@@ -5121,9 +5059,8 @@
   },
   {
     "id": 392,
-    "question": "When a forward-facing child seat is required on the front seat where the airbag system is",
+    "question": "When a forward-facing child seat is required on the front seat where the airbag system is installed. What to do before leaving",
     "options": [
-      "installed. What to do before leaving",
       "• Change the child seat to face the front of the car.",
       "• Ask the passenger to hold the child.",
       "• Have the child sit in a normal seat and fasten an adult seat belt.",
@@ -5148,9 +5085,8 @@
   },
   {
     "id": 394,
-    "question": "While you are waiting to move the car from the side of the road, why do you need to be careful",
+    "question": "While you are waiting to move the car from the side of the road, why do you need to be careful with the motorcycle?",
     "options": [
-      "with the motorcycle?",
       "• Because the traffic police often use a motorcycle as a vehicle.",
       "• Because the motorcycle is allowed to run on the right side",
       "• Because the motorcycle is small and hard to notice.",
@@ -5214,9 +5150,8 @@
   },
   {
     "id": 399,
-    "question": "In the inspection of various hazards around the car while driving Which of the following is not",
+    "question": "In the inspection of various hazards around the car while driving Which of the following is not an item that should be followed?",
     "options": [
-      "an item that should be followed?",
       "• Check the car's blind spots periodically.",
       "• Looking ahead at a distance of 200-300 meters",
       "• Periodically look in the mirror",
@@ -5345,9 +5280,8 @@
   },
   {
     "id": 409,
-    "question": "While you were waiting for the signal light at the crossroads. Then the traffic light turns green.",
+    "question": "While you were waiting for the signal light at the crossroads. Then the traffic light turns green. What should you do?",
     "options": [
-      "What should you do?",
       "• Drive through the intersection quickly. to avoid wasting time on the rear car",
       "• Practice whatever depending on the driver",
       "• Wait until the car behind you gives a horn signal, then get off.",
@@ -5359,9 +5293,8 @@
   },
   {
     "id": 410,
-    "question": "When you drive, you can see the mark on the road. (Rumble Strips slow speed lines) as in the",
+    "question": "When you drive, you can see the mark on the road. (Rumble Strips slow speed lines) as in the picture, what do you have to do?",
     "options": [
-      "picture, what do you have to do?",
       "• Leave a distance from the curve",
       "• Keep the correct distance",
       "• Choose the right channel",
@@ -5412,9 +5345,8 @@
   },
   {
     "id": 414,
-    "question": "Turning the steering wheel while the car is stationary will have a negative effect on any part of",
+    "question": "Turning the steering wheel while the car is stationary will have a negative effect on any part of the car.",
     "options": [
-      "the car.",
       "• Tire",
       "• Gearbox",
       "• Brake",
@@ -5491,9 +5423,8 @@
   },
   {
     "id": 420,
-    "question": "In case you drive straight through the alley Where there are many cars waiting to leave, what",
+    "question": "In case you drive straight through the alley Where there are many cars waiting to leave, what should be done?",
     "options": [
-      "should be done?",
       "• Honk the horn or give the warning light for the car to leave the alley before driving past.",
       "• Open the way for the car to exit the alley, alternating with the straight car.",
       "• Try to drive closer to the vehicle in front so that the car in the alley does not interfere.",
@@ -5505,9 +5436,8 @@
   },
   {
     "id": 421,
-    "question": "In driving down a steep slope What actions should you take to control the speed of the car",
+    "question": "In driving down a steep slope What actions should you take to control the speed of the car safely?",
     "options": [
-      "safely?",
       "• Use high gears and slowly step on the brakes.",
       "• Use a low gear and slowly step on the brakes.",
       "• Use low gears and avoid using brakes.",
@@ -5545,9 +5475,8 @@
   },
   {
     "id": 424,
-    "question": "If you are driving behind a large car that is turning on the left turn signal but the car gradually",
+    "question": "If you are driving behind a large car that is turning on the left turn signal but the car gradually move to the right What should you do?",
     "options": [
-      "move to the right What should you do?",
       "• Follow a large car in a close distance.",
       "• Give the horn signal",
       "• Keep a safe distance",
@@ -5559,9 +5488,8 @@
   },
   {
     "id": 425,
-    "question": "Slowing down and stopping immediately when someone crosses the road. How to prevent",
+    "question": "Slowing down and stopping immediately when someone crosses the road. How to prevent accidents",
     "options": [
-      "accidents",
       "• Prevent collisions in the event of people running across the front of the car",
       "• Prevent oncoming cars",
       "• Prevent overtaking",
@@ -5677,9 +5605,8 @@
   },
   {
     "id": 434,
-    "question": "Which of the following is correct about overtaking a vehicle in front that is moving at a similar",
+    "question": "Which of the following is correct about overtaking a vehicle in front that is moving at a similar speed?",
     "options": [
-      "speed?",
       "• Use more distance The overtaking time remains the same.",
       "• Use the same distance more overtaking time",
       "• It takes more distance and time to overtake.",
@@ -5704,9 +5631,8 @@
   },
   {
     "id": 436,
-    "question": "The distance from the vehicle in front in any field of vision that should be more careful than",
+    "question": "The distance from the vehicle in front in any field of vision that should be more careful than usual",
     "options": [
-      "usual",
       "• Traffic flow",
       "• No rain in the daytime",
       "• At night the light is bright enough.",
@@ -5770,9 +5696,8 @@
   },
   {
     "id": 441,
-    "question": "Which of the following is not the meaning of the word The \"speed that should be used\" is the",
+    "question": "Which of the following is not the meaning of the word The \"speed that should be used\" is the most accurate.",
     "options": [
-      "most accurate.",
       "• Speed limit according to the signs",
       "• Speed suitable for road environment",
       "• The speed that can stop the car in time",
@@ -5862,9 +5787,8 @@
   },
   {
     "id": 448,
-    "question": "If you find that the motorcycle is overtaking while the car is on the way How should the driver",
+    "question": "If you find that the motorcycle is overtaking while the car is on the way How should the driver fix it?",
     "options": [
-      "fix it?",
       "• Hurry to change the lane",
       "• Honk the horn and let the signal light flash the oncoming cars.",
       "• Slow down, keep left, open a lane to overtake.",
@@ -5889,9 +5813,8 @@
   },
   {
     "id": 450,
-    "question": "Techniques for forecasting in addition to forecasting. movement of other cars What should road",
+    "question": "Techniques for forecasting in addition to forecasting. movement of other cars What should road users make an estimate of?",
     "options": [
-      "users make an estimate of?",
       "• Anticipating which way we will turn",
       "• Predict how we drive",
       "• Predict how people on the road will move.",
@@ -5903,9 +5826,8 @@
   },
   {
     "id": 451,
-    "question": "When you want to turn right on a road with cars driving on the opposite side. (There is a stick in",
+    "question": "When you want to turn right on a road with cars driving on the opposite side. (There is a stick in the middle of the road) Which of the following is the most correct?",
     "options": [
-      "the middle of the road) Which of the following is the most correct?",
       "• Stop the vehicle so that the front part of the vehicle must not cross into the opposite traffic lane.",
       "• Keep enough distance from the vehicle behind.",
       "• Stop, then use the handbrake and choose a low gear.",
@@ -5943,9 +5865,8 @@
   },
   {
     "id": 454,
-    "question": "When you drive backwards onto a secondary road and someone is waiting to cross the road.",
+    "question": "When you drive backwards onto a secondary road and someone is waiting to cross the road. What should be done",
     "options": [
-      "What should be done",
       "• Step back before pedestrians start crossing.",
       "• Honk the horn to warn pedestrians crossing the road.",
       "• Waved to the people crossing the road to stop and wait",
@@ -5983,9 +5904,8 @@
   },
   {
     "id": 457,
-    "question": "When there is a flashing yellow light under the warning sign approaching the school grounds.",
+    "question": "When there is a flashing yellow light under the warning sign approaching the school grounds. What should the driver do?",
     "options": [
-      "What should the driver do?",
       "• Stop waiting at the light until the signal turns green.",
       "• Reduce your speed until you are sure there are no children crossing the road and keep going.",
       "• Maintain the original speed and give a signal.",
@@ -6036,9 +5956,8 @@
   },
   {
     "id": 461,
-    "question": "You have also stopped to eat in a restaurant that has liquor service. before driving long distances",
+    "question": "You have also stopped to eat in a restaurant that has liquor service. before driving long distances what should you do",
     "options": [
-      "what should you do",
       "• Eat hot meals with alcoholic beverages.",
       "• Drink milk before drinking alcoholic beverages.",
       "• Alcohol is strictly prohibited.",
@@ -6063,9 +5982,8 @@
   },
   {
     "id": 463,
-    "question": "When traffic is congested at night What must be done so that the light from your car's brake",
+    "question": "When traffic is congested at night What must be done so that the light from your car's brake lights does not dazzle the driver behind the car?",
     "options": [
-      "lights does not dazzle the driver behind the car?",
       "• Use both the hand brake and the foot brake.",
       "• Use the clutch with the accelerator.",
       "• Use foot brake only",
@@ -6103,9 +6021,8 @@
   },
   {
     "id": 466,
-    "question": "When you are driving behind and are not sure which direction the motorcycle driving in front",
+    "question": "When you are driving behind and are not sure which direction the motorcycle driving in front will drive. What should be done",
     "options": [
-      "will drive. What should be done",
       "• Overtake on the left",
       "• Overtake on the right",
       "• Follow behind",
@@ -6208,9 +6125,8 @@
   },
   {
     "id": 474,
-    "question": "If an accident occurs, the driver hits a pedestrian at a speed of 30 kilometers per hour. How will",
+    "question": "If an accident occurs, the driver hits a pedestrian at a speed of 30 kilometers per hour. How will it affect",
     "options": [
-      "it affect",
       "• That person had a chance to get hurt but not die.",
       "• That person will die immediately.",
       "• That person had a high chance of dying.",
@@ -6222,9 +6138,8 @@
   },
   {
     "id": 475,
-    "question": "When you see a car in front of you stopping at an intersection with no traffic lights while the",
+    "question": "When you see a car in front of you stopping at an intersection with no traffic lights while the road is clear What should be done",
     "options": [
-      "road is clear What should be done",
       "• Honk the horn to make the car in front move.",
       "• Absolutely do not overtake.",
       "• Overtake immediately",
@@ -6236,9 +6151,8 @@
   },
   {
     "id": 476,
-    "question": "When you drive close to a car parked on the side of the road What should you do to be the most",
+    "question": "When you drive close to a car parked on the side of the road What should you do to be the most suitable?",
     "options": [
-      "suitable?",
       "• Only a high beam signal is enough.",
       "• Continue driving without any care.",
       "• Accelerate through immediately",
@@ -6263,9 +6177,8 @@
   },
   {
     "id": 478,
-    "question": "When you see that the car driving in front forgets to turn off the right turn signal. What should be",
+    "question": "When you see that the car driving in front forgets to turn off the right turn signal. What should be done",
     "options": [
-      "done",
       "• Shift to the left if there is space to be able to overtake.",
       "• Flashing lights to warn vehicles ahead",
       "• Honk the horn before overtaking.",
@@ -6277,9 +6190,8 @@
   },
   {
     "id": 479,
-    "question": "ABS braking system reduces the chance of slipping. which plays an important role in any",
+    "question": "ABS braking system reduces the chance of slipping. which plays an important role in any situation",
     "options": [
-      "situation",
       "• When driving down a steep slope",
       "• When stopping the vehicle under normal circumstances",
       "• When stopping the vehicle in an emergency situation",
@@ -6343,9 +6255,8 @@
   },
   {
     "id": 484,
-    "question": "Even though we have received the green light Why is it very dangerous for us to speed up the car",
+    "question": "Even though we have received the green light Why is it very dangerous for us to speed up the car suddenly?",
     "options": [
-      "suddenly?",
       "• Traffic jam",
       "• May collide with a car that runs through the red light in another direction",
       "• The car in front may turn off.",
@@ -6370,9 +6281,8 @@
   },
   {
     "id": 486,
-    "question": "When you are about to turn right onto the secondary road Why should I check the right side",
+    "question": "When you are about to turn right onto the secondary road Why should I check the right side mirror before turning?",
     "options": [
-      "mirror before turning?",
       "• To detect vehicles to be overtaken",
       "• To look for pedestrians crossing the road",
       "• To check the car that came out",
@@ -6423,9 +6333,8 @@
   },
   {
     "id": 490,
-    "question": "From the picture, while the green light If you want to turn right but you hear a fire truck signal",
+    "question": "From the picture, while the green light If you want to turn right but you hear a fire truck signal coming to your right, you should.",
     "options": [
-      "coming to your right, you should.",
       "• Turn around without paying attention to the fire truck.",
       "• Wait for the fire truck to first and then turn.",
       "• Turn right before the fire truck arrives.",
@@ -6463,9 +6372,8 @@
   },
   {
     "id": 493,
-    "question": "From the picture, when you drive to a junction, you see a green light. But there is a traffic jam in",
+    "question": "From the picture, when you drive to a junction, you see a green light. But there is a traffic jam in the path that you will travel. What should you do?",
     "options": [
-      "the path that you will travel. What should you do?",
       "• Try to drive to the right of the car in front.",
       "• Drive into the car in front",
       "• Drive into the middle of the intersection Then wait until the car in front moves.",
@@ -6477,9 +6385,8 @@
   },
   {
     "id": 494,
-    "question": "From the picture, in the absence of traffic lights The red car or the yellow car has the right to go",
+    "question": "From the picture, in the absence of traffic lights The red car or the yellow car has the right to go first.",
     "options": [
-      "first.",
       "• Car with higher speed",
       "• Red car",
       "• Yellow car",

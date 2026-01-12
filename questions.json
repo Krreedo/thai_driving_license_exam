@@ -1085,7 +1085,7 @@
       "• Turn right",
       "• Turn left"
     ],
-    "answer": "• Don't turn right",
+    "answer": "• Turn right",
     "image": "images/q85.png",
     "type": "type_2"
   },
@@ -1852,7 +1852,7 @@
       "• To allow all kinds of vehicles to pass into the area where the sign is installed",
       "• No car park but can stop receiving - sending in the area where the sign is installed"
     ],
-    "answer": "• Cars are not allowed to enter the area where the sign is installed.",
+    "answer": "• Motorcycles and cars of all kinds are prohibited from entering and exiting.",
     "image": "images/q144.png",
     "type": "type_2"
   },
@@ -3750,7 +3750,7 @@
       "• Only private vehicles",
       "• Shouldn't"
     ],
-    "answer": "People with impaired vision but can be corrected by wearing glasses Can I drive a vehicle?",
+    "answer": "• Can",
     "image": null,
     "type": "type_1"
   },

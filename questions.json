@@ -53,9 +53,14 @@
   },
   {
     "id": 5,
-    "question": "From the following figure, which of the following is correct? images/q5_1.png images/q5_2.png images/q5_3.png images/q5_4.png",
-    "options": [],
-    "answer": "images/q5_1.png images/q5_2.png images/q5_3.png images/q5_4.png",
+    "question": "From the following figure, which of the following is correct?",
+    "options": [
+      "images/q5_1.png",
+      "images/q5_2.png",
+      "images/q5_3.png",
+      "images/q5_4.png"
+    ],
+    "answer": "images/q5_3.png",
     "image": null,
     "type": "type_3"
   },
@@ -763,9 +768,14 @@
   },
   {
     "id": 60,
-    "question": "From the following picture which picture shows parking correctly? images/q60_1.png images/q60_2.png images/q60_3.png images/q60_4.png",
-    "options": [],
-    "answer": "images/q60_1.png images/q60_2.png images/q60_3.png images/q60_4.png",
+    "question": "From the following picture which picture shows parking correctly?",
+    "options": [
+      "images/q60_1.png",
+      "images/q60_2.png",
+      "images/q60_3.png",
+      "images/q60_4.png"
+    ],
+    "answer": "images/q60_2.png",
     "image": null,
     "type": "type_3"
   },
@@ -973,7 +983,7 @@
       "• Be mindful, park on the side of the road.",
       "• Be mindful, reduce your speed, park on the side of the road, turn on the emergency lights."
     ],
-    "answer": "• Be mindful, turn on the emergency lights. and keep driving",
+    "answer": "• Be mindful, reduce your speed, park on the side of the road, turn on the emergency lights.",
     "image": null,
     "type": "type_1"
   },
@@ -1070,9 +1080,14 @@
   },
   {
     "id": 84,
-    "question": "From the following picture Which picture shows parking correctly? images/q84_1.png images/q84_2.png images/q84_3.png images/q84_4.png",
-    "options": [],
-    "answer": "images/q84_1.png images/q84_2.png images/q84_3.png images/q84_4.png",
+    "question": "From the following picture Which picture shows parking correctly?",
+    "options": [
+      "images/q84_1.png",
+      "images/q84_2.png",
+      "images/q84_3.png",
+      "images/q84_4.png"
+    ],
+    "answer": "images/q84_1.png",
     "image": null,
     "type": "type_3"
   },
@@ -1943,7 +1958,7 @@
       "• Do not go straight or turn right.",
       "• Do not turn left or right."
     ],
-    "answer": "• Do not go straight or turn left.",
+    "answer": "• Turn left or turn right",
     "image": "images/q151.png",
     "type": "type_2"
   },
@@ -2788,7 +2803,7 @@
       "• Up the handbrake - release the neutral gear - Turn off electrical equipment - Press the clutch pedal - Start the engine",
       "• Release the handbrake - turn off the electrical equipment - start the engine"
     ],
-    "answer": "• Press the clutch pedal - start the engine",
+    "answer": "• Up the handbrake - release the neutral gear - Turn off electrical equipment - Press the clutch pedal - Start the engine",
     "image": null,
     "type": "type_1"
   },
@@ -2814,7 +2829,7 @@
       "• To reduce engine heat",
       "• To increase the speed of the car"
     ],
-    "answer": "In driving down a steep slope Why should a driver use a low gear?",
+    "answer": "• To slow down the speed of the car",
     "image": null,
     "type": "type_1"
   },
@@ -3808,9 +3823,14 @@
   },
   {
     "id": 295,
-    "question": "From the following picture Show the correct car turn images/q295_1.png images/q295_2.png images/q295_3.png images/q295_4.png",
-    "options": [],
-    "answer": "images/q295_1.png images/q295_2.png images/q295_3.png images/q295_4.png",
+    "question": "From the following picture Show the correct car turn",
+    "options": [
+      "images/q295_1.png",
+      "images/q295_2.png",
+      "images/q295_3.png",
+      "images/q295_4.png"
+    ],
+    "answer": "images/q295_1.png",
     "image": null,
     "type": "type_3"
   },
@@ -4388,9 +4408,14 @@
   },
   {
     "id": 340,
-    "question": "From the picture, which of the following shows the wrong stop of the car? images/q340_1.png images/q340_2.png images/q340_3.png images/q340_4.png",
-    "options": [],
-    "answer": "images/q340_1.png images/q340_2.png images/q340_3.png images/q340_4.png",
+    "question": "From the picture, which of the following shows the wrong stop of the car?",
+    "options": [
+      "images/q340_1.png",
+      "images/q340_2.png",
+      "images/q340_3.png",
+      "images/q340_4.png"
+    ],
+    "answer": "images/q340_4.png",
     "image": null,
     "type": "type_3"
   },
@@ -4546,7 +4571,7 @@
       "• Can only public transport",
       "• Not in all cases"
     ],
-    "answer": "Can I drive a vehicle?",
+    "answer": "• Can",
     "image": null,
     "type": "type_1"
   },

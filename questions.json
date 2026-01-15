@@ -775,7 +775,7 @@
       "images/q60_3.png",
       "images/q60_4.png"
     ],
-    "answer": "images/q60_2.png",
+    "answer": "images/q60_4.png",
     "image": null,
     "type": "type_3"
   },
@@ -1971,7 +1971,7 @@
       "• Go straight or turn left",
       "• Go straight, but do not turn left."
     ],
-    "answer": "• Do not go straight or turn left.",
+    "answer": "• Go straight or turn left",
     "image": "images/q152.png",
     "type": "type_2"
   },
@@ -2920,7 +2920,7 @@
       "• Get enough rest",
       "• Late night"
     ],
-    "answer": "Before driving, how should a good driver prepare himself?",
+    "answer": "• Get enough rest",
     "image": null,
     "type": "type_1"
   },
@@ -3037,7 +3037,7 @@
       "• Speed up through rainy areas quickly.",
       "• Park the car in a safe area. Turn on the headlights and turn on the emergency lights."
     ],
-    "answer": "If it rains so hard that you can't see the road clearly How should the driver act?",
+    "answer": "• Park the car in a safe area. Turn on the headlights and turn on the emergency lights.",
     "image": null,
     "type": "type_1"
   },
@@ -3336,7 +3336,7 @@
       "• Can",
       "• Can only public transport"
     ],
-    "answer": "High blood pressure patients which is in the process of receiving the drug Can I drive a vehicle?",
+    "answer": "• Can",
     "image": null,
     "type": "type_1"
   },
@@ -4909,7 +4909,7 @@
       "• Yes, but must be accompanied by someone else in the car.",
       "• Nothing is right"
     ],
-    "answer": "Can a mute person drive a vehicle?",
+    "answer": "• Can",
     "image": null,
     "type": "type_1"
   },
@@ -5247,7 +5247,7 @@
       "• Fill the radiator tank with water when the engine cools down.",
       "• Turn off the air conditioner, open the window and park the car."
     ],
-    "answer": "• Pour water into the engine to cool the engine.",
+    "answer": "• Turn off the air conditioner, open the window and park the car.",
     "image": null,
     "type": "type_1"
   },
@@ -6417,7 +6417,7 @@
       "• Yellow car",
       "• The car that arrives at the intersection first"
     ],
-    "answer": "From the picture, in the absence of traffic lights The red car or the yellow car has the right to go",
+    "answer": "• Yellow car",
     "image": "images/q494.png",
     "type": "type_2"
   },

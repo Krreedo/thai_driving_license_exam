@@ -762,7 +762,7 @@
       "• Don't keep right",
       "• Keep left"
     ],
-    "answer": "• Don't keep left",
+    "answer": "• Keep left",
     "image": "images/q59.png",
     "type": "type_2"
   },
@@ -1009,7 +1009,7 @@
       "• Turn left",
       "• Don't turn right"
     ],
-    "answer": "• Don't turn left",
+    "answer": "• Turn left",
     "image": "images/q78.png",
     "type": "type_2"
   },
@@ -2972,7 +2972,7 @@
       "• Look at the right side mirror",
       "• Look at the right side mirror turn on the right turn light while turning his head to look over the right shoulder to the back before leaving the car"
     ],
-    "answer": "Before getting out of the car from the shoulder on the left Drivers need to act as safe as possible.",
+    "answer": "• Look at the right side mirror turn on the right turn light while turning his head to look over the right shoulder to the back before leaving the car",
     "image": null,
     "type": "type_1"
   },
@@ -3791,7 +3791,7 @@
       "• No",
       "• Depending on food"
     ],
-    "answer": "All drugs are available in pharmacies. Can it be eaten without affecting driving?",
+    "answer": "• No",
     "image": null,
     "type": "type_1"
   },
